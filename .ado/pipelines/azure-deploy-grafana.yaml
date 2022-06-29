@@ -12,6 +12,7 @@ parameters:
   values:
   - int
   - prod
+  - e2e
 
 pool:
   vmImage: 'ubuntu-20.04'
